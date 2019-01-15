@@ -1,0 +1,131 @@
+body{
+	text-align: center;
+	text-decoration: none;
+	margin: 0;
+}
+
+header {
+	background-color: #F15B31;
+	color: white;
+	padding: 30px 20px;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+nav {
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	font-family: Raleway;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 18px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 20px 0;
+}
+
+main {
+	align-content: center;	
+	margin: 50px;
+	width: 820px;
+	margin: 35px auto;
+}
+
+footer {
+	margin: 50px;
+	text-transform: uppercase;
+	padding: 0px 20px;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: 0.08em;
+	font-weight: 500;
+}
+
+.copyright {
+	font-family: Raleway;
+	float: left;
+}
+
+.message {
+	font-family: Raleway;
+	float: right;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+h1 {
+	font-family: Raleway;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: Raleway;
+	letter-spacing: .1px;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 16px;
+	text-transform: none;
+}
+
+a {
+	margin: 0 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-bottom: 2px solid transparent;
+}
+
+/* changes the underline (border bottom) clor to white as you hover over the links */
+a:hover {
+	border-color: white;
+}
+
+h4 {
+	font-family: Raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: "Droid	Serif";
+	line-height: 26px;
+	font-size: 18px;
+}
+
+img {
+	margin: 40px 8px;
+}
+
+h5 {
+	font-family: "Droid	Serif";
+	line-height: 16px;
+	font-size: 14px;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+#social {
+	color: #F15B31;
+	text-decoration: none;
+	text-transform: none;
+	margin:0px;
+}
+
